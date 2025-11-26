@@ -1,0 +1,19 @@
+.box {
+    width: 300px;
+    padding: 20px;
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.title {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.text {
+    font-size: 14px;
+    color: #555;
+}
